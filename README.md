@@ -1,6 +1,5 @@
 # **Python Basics!**
 
-For all those looking to learn python from scratch , you can begin with the material given below, while those of you who are already familiar with python and are just looking to revise can go through [this notebook](https://github.com/aaditsule/Summer-of-Code-2025/blob/main/Week%201%20-%20Resources/01-Basics%20of%20Python.ipynb).  
 
 For the first week we will be covering some basic topics:
 * [Getting Started](#getting-started)
